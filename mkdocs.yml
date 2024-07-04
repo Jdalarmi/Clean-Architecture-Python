@@ -1,0 +1,8 @@
+site_name: Clean Architecture
+repo_url: https://github.com/Jdalarmi/Clean-Architecture-Python
+repo_name: jdalarmi/Clean Architecture
+edit_uri: tree/master/docs
+
+theme:
+    name: material
+    language: pt-BR
