@@ -10,3 +10,5 @@ def test_insert_user():
     users_repository.insert_user(mocked_first_name,
                                  mocked_last_name,
                                  age)
+
+
