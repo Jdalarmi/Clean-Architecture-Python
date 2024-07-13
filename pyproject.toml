@@ -28,6 +28,5 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.pytest.ini_options]
-python_paths = ["clean_architecture_python/src"]
 addopts = "--doctest-modules --disable-warnings"
 cache_dir = "/tmp/pytest_cache"
